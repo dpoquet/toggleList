@@ -1,7 +1,7 @@
 toggleList
 ==========
 
-JS Toggle List
-gyhgfhgfhgdf
-yghgdfd
-gyhdfd
+Function to create a simple toggle list with JS.
+
+Framework JS: Jquery
+Technology: HTML5, CSS3, JS.
